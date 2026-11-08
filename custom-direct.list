@@ -1,6 +1,11 @@
 # Other services — Direct
 
+
 DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
+
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,lordfilm.md
 DOMAIN-SUFFIX,api-ru.petkit.cn
