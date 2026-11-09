@@ -16,5 +16,5 @@ DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apple.com.akadns.net
 DOMAIN-SUFFIX,apple.com.edgekey.net
 DOMAIN-SUFFIX,icloud.com.akadns.net
-DOMAIN-SUFFIX,mail.me.com
-DOMAIN-SUFFIX,mail.icloud.com
+#DOMAIN-SUFFIX,mail.me.com
+#DOMAIN-SUFFIX,mail.icloud.com
