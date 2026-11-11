@@ -1,4 +1,21 @@
 # Apple iCloud Mail — DIRECT
 
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,mac.com
+DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,apple-mapkit.com
+DOMAIN-SUFFIX,apple.com.akadns.net
+DOMAIN-SUFFIX,apple.com.edgekey.net
+DOMAIN-SUFFIX,icloud.com.akadns.net
+#DOMAIN-SUFFIX,mail.me.com
+#DOMAIN-SUFFIX,mail.icloud.com
 DOMAIN-SUFFIX,mail.me.com
 DOMAIN-SUFFIX,mail.icloud.com
